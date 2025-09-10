@@ -5,15 +5,8 @@
     {
       "idx": 0,
       "version": "7",
-      "when": 1757485564374,
-      "tag": "0000_large_namora",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "7",
-      "when": 1757489466560,
-      "tag": "0001_steady_doomsday",
+      "when": 1757490081136,
+      "tag": "0000_parallel_zzzax",
       "breakpoints": true
     }
   ]
